@@ -8,3 +8,8 @@
 /build
 /captures
 .externalNativeBuild
+memeolist/.idea
+.idea
+memeolist/local.properties
+memeolist/.settings/
+.settings
